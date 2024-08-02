@@ -2,6 +2,11 @@ package com.technikon;
 
 public class Class1 {
 
+    public static void anteEpitelous() {
+
+    }
+
+
     private int apples;
     public int newintemorellas;
 
@@ -17,6 +22,7 @@ public class Class1 {
     
     public void johnmorellas(){
     }
+
 
 
 }
