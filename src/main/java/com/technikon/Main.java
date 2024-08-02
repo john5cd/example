@@ -15,4 +15,8 @@ public class Main {
     public static void method2() {
         System.out.println("i am 2");
     }
+    
+    public static void view() {
+        System.out.println("View all customers");
+    }
 }
